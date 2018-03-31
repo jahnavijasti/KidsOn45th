@@ -1,0 +1,280 @@
+"index","preset_name","type_code","condition_code","size_code","notes","p_description","category","listprice"
+2,"",2,5,5,"","Diaper Cover",3,2.99
+3,"bib",2,2,5,"bib","bib",3,0.5
+4,"pants",2,2,5,"","pants",1,3.99
+5,"summer",2,2,5,"","shorts or short'll or summer romper",5,3.99
+6,"sht sleeve shirt",2,2,5,"","shirt",1,3.99
+7,"denim overalls",2,2,5,"","overalls",1,4.99
+8,"overalls",2,2,5,"","overalls",1,4.99
+9,"dress",2,2,5,"","dress",1,5.99
+10,"party dress",2,3,5,"","nicer newer dress",5,9.99
+11,"boys dress suit",2,3,5,"","dress up for boys",5,15
+12,"swim diaper",2,2,1,"","swim diaper",5,3.99
+13,"childrens books",2,2,5,"","book",3,0.5
+14,"childrens books",2,2,5,"","childrens books",3,0.99
+15,"stuffed animals",2,3,3,"good cond","large toy",3,4.99
+16,"stuffed animals",2,2,2,"","small-med size toy",2,1.5
+17,"shoes-dress boys",2,3,2,"","dress shoes",5,6.99
+18,"shoes- dress girls",2,3,2,"","party or dress shoes",5,7.99
+19,"shoe",2,2,5,"","sandal or shoe",3,4.99
+20,"SWIM",2,2,5,"","swim",5,4.99
+21,"onesie",2,2,5,"","underwear  type onsie",3,0.99
+22,"t-pant",2,2,5,"","training pant",3,0.99
+23,"Costume/dress up",2,2,5,"","Costume/dress-up/leotard",5,5.99
+24,"Light Jacket/Fleece",2,2,5,"","Light Weight Jacket/ Fleece",5,8.99
+25,"Jacket/Rain",2,2,5,"","Medium Weight Jacket/Rain Coat",5,9.99
+26,"winter jkt.",2,2,5,"","heavy weight jkt.",5,15
+27,"snow pants",2,2,5,"","o'll or snow pants, snow suits, heavy jkts",5,9.99
+28,"sweatshirt",2,2,5,"","sweatshirt",1,3.99
+29,"one piece or set",2,2,5,"","cotton one piece outfit or set",1,4.99
+30,"tights",2,2,5,"","tights",3,1.99
+31,"summer dress",2,2,5,"","summer dress",5,4.99
+32,"slipper",2,2,5,"","slipper",3,2.99
+33,"sox",2,2,5,"","sox",3,0.5
+34,"Wool Socks",2,2,5,"","Wool Socks",3,2.99
+35,"short",2,2,5,"","summer shorts print or solid",5,3.99
+36,"summer shirt",2,2,5,"","summer shirt",5,3.99
+37,"dress",2,2,5,"","dress",1,4.99
+38,"shirt",2,1,5,"","shirt",1,2.5
+39,"blankets",2,2,5,"","blankets and linens",3,1.99
+40,"better blankets",2,2,5,"","better blankets",3,3.99
+41,"Rain jacket",2,2,5,"","Rain Jacket",5,5.99
+42,"Rain jacket Lined",2,2,5,"","Lined Rain Jacket",5,7.99
+43,"Sweater",2,2,5,"","sweater",5,4.99
+44,"Pajamas",2,2,5,"","pj,  night gowns,  robes",1,4.99
+45,"sets",2,2,5,"","2 or 3 piece set",1,6.99
+46,"summer or lt wt hat",2,2,5,"","light weight hats",5,3.99
+47,"winter hat or scarf",2,2,5,"","winter hat or scarf",5,3.99
+48,"under",2,2,5,"","",NA,0
+49,"underwear",2,2,5,"","panties, boxers, briefs, training bras",3,0.99
+50,"bloomers",2,2,5,"","bloomers",5,0.99
+51,"Safety item",2,2,5,"","safety items, life jackets, pads, etc.",3,3.99
+52,"booties",2,2,5,"","booties",3,1.99
+53,"baby T",2,2,5,"","underwear type t",5,0.5
+54,"vest",2,2,5,"","vest",1,3.99
+55,"Sleep Sack",2,2,5,"","Sleep Sack",1,5.99
+56,"skirt",2,2,5,"","skirt",1,4.99
+57,"toy",2,2,5,"","toy,  puzzle or game",2,3.99
+58,"Misc",2,2,5,"","MISC non-clothing items MISC",3,3.99
+59,"BOOT",2,2,5,"","Boot",5,5.99
+60,"MITTENS",2,2,5,"","Gloves, Mittens, Scarves",5,2.99
+61,"DVD",2,2,5,"","CD or DVD",3,3.99
+62,"slippers",2,2,5,"","slipper",3,3.99
+63,"1z shirt",2,2,5,"","snap shirt-style onesie",1,3.99
+64," swing",2,2,5,""," infant swing",4,25
+65,"stroller",2,2,5,"","double or single stroller",4,35
+66,"hi chair",2,2,5,"","hi chair",4,20
+67,"car seat",2,2,5,"","car seat",4,25
+68,"all in 1 diaper",2,2,5,"","All in one diaper",3,7.99
+69,"sale",1,4,5,"","sale",1,4.99
+70,"heavy winter  jkt",2,2,5,"","heavy jacket",5,15
+71,"sandals/ water shoes",2,2,5,"","sandals/ water shoes",5,4.99
+72,"Clothing Misc",2,2,5,"","belts, ties, suspenders, etc.",3,1.99
+73,"Clothing Misc.",2,2,5,"","ties, belts, suspenders",1,1.99
+74,"hair item/jewelry",2,2,5,"","hair item/jewelry/sunglasses/goggles",3,0.99
+75,"robeez",1,2,5,"","Robeez footwear",3,23.99
+76,"skivvy doodles",1,2,5,"","short sleeve crop  pant",5,29.99
+77,"skivvy doodles",1,2,5,"","tank top pant and bag",5,29.95
+78,"skivvy doodles",1,2,5,"","long legs long sleeve",3,29.95
+79,"Kids Konserve",1,4,5,"","Kids Konserve",3,19.95
+80,"GYMBOREE",2,2,5,"","GYMBOREE",1,5.99
+81,"CAKEWALK",2,2,5,"","CAKEWALK",1,9.99
+82,"HANNA ANDERSON",2,2,5,"","HANNA ANDERSON",1,6.99
+83,"ELEFANTEN",2,2,5,"","ELEFANTEN SHOES",3,8.99
+84,"big bellies bibs",1,2,5,"","big bellies bibs",3,11.95
+85,"diaper rash cream",1,2,5,"","california baby diaper rash cream",3,11.99
+86,"50%  off sale",1,2,5,"","Sale 50 % off",3,4.99
+87,"diaper all in one",2,2,5,"","diaper all in one",3,7.99
+88,"tic tac toe",1,2,5,"","tic tac toe socks",3,4.5
+89,"painting red rhino",1,2,5,"","painting red rhino fall",1,38.95
+90,"TIC TAC TOE",1,2,5,"","TIC TAC TOE",3,3.5
+91,"Laarni #538",1,2,5,"","Laarni  booties",3,11.95
+92,"skivvy doodle fall",1,2,5,"","new style  fall",3,29.95
+93,"SKIVVY",1,2,5,"","LONG SLEEVE GOWN",3,29.95
+94,"hat",2,2,5,"","hat",5,1.99
+95,"zutano",1,2,5,"","zutano",3,21.95
+96,"MP TIGHTS",1,2,5,"","MP TIGHTS",3,19.95
+97,"cd rom",2,2,5,"","cd rom",3,1.99
+98,"purse",1,2,5,"","beaded purse",3,8.95
+99,"velor hat",1,2,5,"","velour hats",3,14.95
+100,"HAT",1,2,5,"","LAARNI HATS",5,16
+101,"underoos",1,2,5,"","fruit of the loom underoos",3,6.95
+102,"",1,2,5,"","Bubble Fun",3,29.99
+103,"Rich Frog",1,2,5,"","Rich Frog",3,7.5
+104,"",1,2,5,"","BURT'S BEES",3,9.95
+105,"baby legs",1,2,5,"","Baby legs",3,8.99
+106,"eeboo",1,2,5,"","eeboo",3,4.99
+107,"Dishes",2,2,5,"","Dishes",3,1.99
+108,"lime apple",1,2,5,"","Limeapple",5,49.99
+109,"",1,2,5,"","",NA,NA
+110,"sale",1,2,5,"","50% off",1,4.95
+111,"sale",1,2,5,"sale","sale winter 2003",1,4.95
+112,"Belts",2,2,5,"","belts",3,0.99
+113,"",2,2,5,"","summer sale 70% off",1,9.95
+114,"",1,2,5,"","l'amour sandals",3,15.95
+115,"burp cloths",2,2,5,"","",3,0.5
+116,"burp cloth",2,2,5,"","burp cloth",3,0.5
+117,"Wayi",1,2,5,"","Wayi",3,24.99
+118,"pattern",2,2,5,"","costume pattern",3,0.95
+119,"",1,2,5,"","K. C. Parker",1,46
+120,"",1,2,5,"","NEW ITEM 2007________________________",3,1.95
+121,"NEW 2007",1,2,5,"","NEW ITEM 2007___________________________",3,0.95
+122," CLEARANCE",1,2,5,"","CLEARANCE 70% 0FF",5,3.95
+123,"",1,2,5,"","sale 50% off",3,4.95
+124,"roo bibs",1,2,5,"","roo bibs",3,4.99
+125,"bottles, cups, etc.",2,2,5,"","bottles, cups, spoons, bowls, etc.",3,1.99
+126,"Melissa & Doug",1,2,5,"","Melissa & Doug",3,1.99
+127,"Melissa & Doug",1,2,5,"","Melissa & Doug",3,1.99
+128,"",1,2,5,"","new Item 2007-2008____________________",3,29.95
+129,"",2,2,5,"","",NA,0
+130,"California Baby",1,2,5,"","California Baby",3,9.99
+131,"hat",2,2,5,"","hat",1,1.95
+132,"hat",1,2,5,"","hat",1,12.99
+133,"Burt's Bees",1,2,5,"","Burt's",3,2.99
+134,"Burt's Bees Organics",1,4,5,"","Burt's Bees Organic Cottons",1,11.99
+135,"monkeyroos",1,2,5,"","Monkeyroos",3,2.99
+136,"",1,2,5,"","Clearance Sale",3,2.49
+137,"Sale",3,2,5,"","sale 50% 0ff",3,4.99
+138,"",1,2,5,"","Classroom Lullabies and Nursery Rhymes",3,10
+139,"new cd",1,2,5,"","Classroom  Lullabies & Nusery Rhymes",3,10
+140,"new cd",1,2,5,"","Classroom Lullabies and Nursery Rymes",3,10
+141,"sunglasses/ goggles",2,2,5,"","sunglasses/ goggles",NA,1.99
+142,"soxpenders",1,2,5,"","soxpenders",NA,6.99
+143,"Mary Meyer",1,2,5,"","Mary Meyer",3,11.99
+144,"limeapple",1,2,5,"","limeapple",3,29.99
+145,"Rich Frog",1,2,5,"","Rich Frog",3,6.99
+146,"Columbia",1,4,5,"","New Columbia",5,36
+147,"ergo",1,2,5,"","Ergo products",3,24.99
+148,"aden+anais",1,4,5,"","aden+anais",NA,21.99
+149,"huggalugs",1,2,5,"","huggalugs",3,11.99
+150,"sugar booger",1,2,5,"","Sugar Booger",3,14.99
+151,"Western Chief",1,2,5,"Western Chief Boots","Western Chief Boots",5,22.99
+152,"Prince lionheart",1,2,5,"","Prince Lionheart",3,24.99
+153,"Melissa and doug",1,2,5,"","Melissa and Doug",5,12.99
+154,"Under the Nil",2,2,5,"","",NA,0
+155,"Under the Nile",1,4,5,"Under the Nile","Under the Nile",3,28.99
+156,"Kamik",1,2,5,"Kamik Boots","Kamik Boots",NA,34.99
+157,"I Play",1,2,5,"","I Play",3,7.99
+158,"angel dear",1,2,5,"","angel dear",3,11.99
+159,"Lite Wrap",1,4,5,"Lite Wrap","Lite Wrap",3,8.5
+160,"Hatley",1,4,5,"Hatley","Hatley",1,39.99
+161,"hand knit hat",1,2,5,"","hand knit hat",3,8.99
+162,"hand knit mittens",1,2,5,"","hand knit mittens",3,8.99
+163,"Envirosax",1,2,5,"Envirosax","Envirosax",3,8.99
+164,"Sugar Booger",1,2,5,"Sugar Booger","Sugar Booger",3,9.99
+165,"episencial",1,2,5,"episencial","episencial",3,9.99
+166,"Downeast",1,2,5,"DOWNEAST","Downeast",1,14.99
+167,"Keepin' Fresh",1,4,5,"Keepin' Fresh","Keepin' Fresh",NA,16.99
+168,"baby banz",1,2,5,"","baby banz salesman samples",5,9.99
+169,"Kids Basix",1,2,5,"","Kids Basix",3,9.99
+170,"Kid Basix",1,2,5,"","Kid Basix",3,9.99
+171,"pb n j  baby",1,2,5,"","pb nj baby",3,4.5
+172,"",1,2,5,"","Green toys",3,25.99
+173,"",1,2,5,"","Rich Frog",3,9.99
+174,"Hatley Umbrella",1,4,5,"","",NA,15.5
+175,"diaper cov",1,4,5,"Hatley Umbrella","Hatley Umbrella",3,15.5
+176,"Robeez",1,2,5,"","Robeez",3,29.99
+177,"Eco pacifier",1,2,5,"","Eco Pacifier",3,19.99
+178,"Kushies",1,2,5,"","kushies",3,6.99
+179,"Kushies",1,2,5,"","kushies",3,6.99
+180,"Kushies",1,4,5,"","Kushies",1,6.99
+181,"Life Factory",1,4,5,"","Life Factory",NA,8.99
+182,"Life Factory",1,4,5,"","Life Factory",3,8.99
+183,"LifeFactory",1,4,5,"","LifeFactory",3,8.99
+184,"American Bear Compan",1,2,5,"","American Bear Company",NA,11.99
+185,"Maple Landmark",1,4,5,"","Maple Landmark Woodcraft",2,11.99
+186,"Max's Mud",1,2,5,"","Max's Mud-Gluten and Fragrance free",3,3.99
+187,"RKS Sunglasses",1,4,5,"","RKS Sunglasses",NA,12.99
+188,"Halo",1,4,5,"","Halo Sleepsacks",3,21.99
+189,"EEBOO",1,2,5,"EEBOO","EEBOO",2,9.99
+190,"Fruit of the Loom",1,2,5,"Fruit of the Loom","Fruit of the Loom",1,7.99
+191,"miracle blanket",1,4,5,"","",3,29.99
+192,"Miracle Blanket",1,4,5,"","miracle blanket",3,29.99
+193,"Acorn",1,4,5,"Acorn","Acorn",1,34.99
+194,"Kid Co",1,2,5,"","Kid Co",3,3.99
+195,"Edushop",1,2,5,"Edushop","Edushop",NA,19.99
+196,"Douglas",1,2,5,"","Douglas",3,19.99
+197,"Manhattan toys",1,2,5,"","Manhattan toys",2,14.99
+198,"Eni Puzzles",1,4,5,"Eni Puzzles","Eni Puzzles",2,11.5
+199,"Piggy Paint",1,4,5,"Piggy Paint","Piggy Paint",3,8.99
+200,"Wool Pets",1,4,5,"Wool Pets","Wool Pets",3,16.99
+201,"Health Science Labs",1,4,5,"Health Science Labs","Health Science Labs",NA,14.99
+202,"Putumayo",1,2,5,"","Putumayo Kids World Music",NA,14.99
+203,"Klean Kanteen",1,4,3,"","Klean kanteen",3,24.99
+204,"Fox Fire",1,2,5,"","Fox Fire",5,24.99
+205,"Bumkins",1,4,5,"Bumkins","Bumkins",NA,12.99
+206,"Kickee Pants",1,2,5,"","Kickee Pants",3,19.99
+207,"Mayoral",1,2,5,"","Mayoral",1,19.99
+208,"Kids Konserve",1,4,5,"","Kids Konserve",NA,19.95
+209,"amber",1,2,5,"","amber",3,17.99
+210,"Crocodile Creek",1,2,5,"","Crocodile Creek",3,9.99
+211,"Edushape",1,2,5,"","EduShape",2,19.99
+212,"Universal Toysmith",1,4,5,"","Universal Toysmith",2,13.99
+213,"Knitwits",1,2,5,"","Knitwits",5,9.99
+214,"Diaper Cover",2,2,5,"Diaper Cover","Diaper Cover",3,3.99
+215,"nixi",1,2,5,"","Silicone  Jewelry",3,9.99
+216,"le top",1,2,5,"","Le Top",3,24.99
+217,"Innobaby",1,4,5,"","Innobaby",NA,9.99
+218,"north american Bear",1,2,5,"","North American Bear",2,9.99
+219,"Nowali",1,4,5,"","Nowali",NA,26.99
+220,"Becker Gloves",1,2,5,"","Becker Gloves",3,3.99
+221,"Janod Toys",1,2,5,"Janod Toys","Janod Toys",2,14.99
+222,"Small World Toys",1,4,5,"Small World Toys","Small World Toys",2,19.99
+223,"$10 sale",3,2,5,"sale only","$10 sale",3,10
+224,"Plan Toys",1,4,5,"Plan Toys","Plan Toys",NA,11.99
+225,"Konfidence swim",1,2,5,"","Konfidence Swim",5,29.99
+226,"Konfetti",1,4,5,"Konfetti","Konfetti",1,26.99
+227,"WubbaNub",1,2,5,"","WubbaNub",3,14.99
+228,"OXO",1,2,5,"","OXO",3,7.99
+229,"little thredz",1,2,5,"","Little Thredz",3,19.99
+230,"Happy Socks",1,2,5,"Happy Socks","Happy Socks",1,7.99
+231,"Kamik",1,2,5,"","Kamik",3,29.99
+232,"Itzy Ritzy",1,2,5,"","Itzy Ritzy",3,29.99
+233,"Badger Products",1,2,5,"","Badger Products",3,7.99
+234,"Rabbit Moon",1,4,5,"","Rabbit Moon",1,13.99
+235,"Stride rite",1,2,5,"","Stride rite",5,9.99
+236,"O.R.E",1,2,5,"O.R.E","O.R.E",3,19.99
+237,"Girl & Co.",1,2,5,"Girl & Co.","Girl & Co.",1,29.99
+238,"Goodbyn",1,2,5,"","Goodbyn",3,12.99
+239,"",2,2,5,"","",NA,0
+240,"Green Toys",1,2,5,"","Green Toys",2,27.99
+241,"David Fussenegger",1,2,5,"","David Fussenegger",3,16.99
+242,"Earth Mama",1,2,5,"","Earth Mama",3,13.99
+243,"Grand Sierra",1,4,5,"","Grand Sierra",1,8.5
+244,"wow cup",1,4,5,"","wow cup",3,9.99
+245,"Do A Dot Art",1,2,5,"","Do A Dot Art",2,15.99
+246,"BUILT",1,2,5,"","BUILT",3,19.99
+247,"Bruder",1,4,5,"","Bruder",2,69.99
+248,"Mcubbin",1,2,5,"","Mcubbin",3,15.99
+249,"Rubbabu",1,2,5,"","Rubbabu",2,7.99
+250,"Jack and Lily",1,2,5,"","Jack and Lily",3,24.99
+251,"Penny Candy",1,4,5,"","Penny Candy",1,19.99
+252,"Waba fun",1,2,5,"","Waba fun",2,19.99
+253,"Begin  again",1,2,5,"","Begin Again",2,0
+254,"Jellycat",1,2,5,"","Jellycat",2,19.99
+255,"Sophie la girafe",1,2,5,"","Sophie la girafe",3,14.99
+256,"Tuffo",1,4,5,"","Tuffo",3,39.99
+257,"Sili Squeeze",1,4,5,"","Sili Squeeze",3,14.99
+258,"Ulubulu",1,4,5,"Ulubulu","Ulubulu",3,7.99
+259,"Great Pretenders",1,4,5,"","Great Pretenders",3,11.99
+260,"baby legs",1,2,5,"","baby legs",3,8.99
+261,"Babalu",1,4,5,"Babalu","Babalu",2,24.99
+262,"Burt's Bees Baby",1,4,5,"Burt's Bees Baby Organics","Burt's Bees Baby Organics",1,14.99
+263,"Trumpette",1,2,5,"","trumpette",3,25.99
+264,"Bogs Footwear",1,4,5,"Bogs Footwear","Bogs Footwear",1,34.99
+265,"Meiya & Alvin",1,2,5,"","Meiya and Alvin collection",3,19.99
+266,"Tiger Tales",1,2,5,"","Tiger Tales",2,8.99
+267,"Poppy & Plum",1,4,5,"Poppy & Plum","Poppy and Plum",3,15.99
+268,"ONYX",1,2,5,"","ONYX",3,9.99
+269,"Smart Wool",1,2,5,"","Smart Wool",3,10.99
+270,"Smart Wool Socks",1,4,5,"Smart Wool Socks","Smart Wool Socks",1,10.99
+271,"Hatley",1,2,5,"","Hatley",3,2.99
+272,"Kid Basix",1,4,5,"Kid Basix","Kid Basix",3,15.99
+273,"The Amber monkey",1,2,5,"","Tha Amber Monkey",3,17.99
+274,"puppet workshop",1,2,5,"","puppet workshop",5,19.99
+275,"SCENTCO",1,2,5,"","SCENTCO",3,2.99
+276,"Puj",1,2,5,"","Puj",3,19.99
+277,"Ravensburger",1,4,5,"","Puzzles",3,12.99
+278,"Mulberry bush",1,2,5,"","Mulberry bush",1,29.99
+279,"Eric Carle",1,2,5,"","Eric Carle",1,28.99
+280,"final clearance",1,2,5,"","FINAL CLEARANCE",3,24.99

@@ -1,0 +1,119 @@
+********************************************************************************************
+
+Meeting number 2
+
+Price model?
+
+Pricing on-line?
+
+Create project so that it can be enhanced by another group...
+
+Requirements for both pricing model, and pricing on-line.
+
+Price decay online....
+
+How do you classify what goes on-line versus in the store?
+
+...originally everything was supposed to go on-line first.  Good condition stuff, named-brand, photograph well goes on-line first.  Less than 10% qualifies on these conditions.  More consigners coming in than they can handle...  Handle 5 drop-off a day, but they got 30.  Minimum price is hard to quantify.  $1.00 minimum price?
+
+On-line people who do the same thing...
+Thread-up
+Swap.com
+
+Features...Access database
+Five tables
+
+Sales
+Transaction
+total
+subtotal
+tax
+consigner credit
+
+Product sale table
+All products in transaction
+sale price
+listing price
+discount
+
+Inventory table
+Inventory for past ten yearsUn
+
+Categorization of items in database.
+
+scope....?  Do we need to keep things on the rack longer?  Understand what sells things...
+
+Elastic search ... Kibana
+
+Web presence hasn't gotten as much attention.
+
+********************************************************************************
+
+Meeting number 3, 11/17/2017
+
+1. Data was entered with custom tool, not MS Access...custom build form?
+...not even connected to the Internet XP machine
+
+2. They are happy with the data entry.
+
+3. Two existing web applications for data entry
+
+4. ElasticSearch allows entry...
+
+ElasticSearch is a database.
+
+Bring databases together?
+
+Goal is to maximize revenue...
+
+Inflation may not be a factor due to how clothing is priced now.
+
+30% of sales are on credit...
+
+Can't differentiate between bargain bin sale and donated to charity.
+
+700 ITEMS sold, 300 ITEMS donated.
+
+30 days in store, things go to donation.
+
+Categories as granular as the categories in MS Access...
+
+Seasonality: Summer versus not summer.
+
+50 cents for $9.99 items -> $4.50 or $5.50.
+
+8% of credit expires....it expires after 3 years.
+
+- Look at consigner number for newness....600 for consigner number.
+|
+- 999 might be how Sue coded new items.
+|
+- Drop the new items from the model!
+
+***********************
+
+Price distribution per category, remove high-end outliers.  Low-end outliers went to the bargain bin, or to donation.
+
+sales performance of items per category per price point...
+
+$3.99, number of items, amount of time in store
+$4.99, number of items, amount of time in store
+$5.99, number of items, amount of time in store...
+
+Dollar per day held in inventory?...
+
+Seasonality matters...
+
+Shorts sell better in summer
+Long-sleeve shirts in winter
+Boots on rainy days
+
+1) PRICE; AND; 2) TIME ON SHELF ARE THE TWO THINGS THAT THEY CONTROL!
+
+Look into price elasticity...
+
+They pay their employees slightly more.
+
+Segmenting consignors?...Consignors who ONLY use their their credit are the least valuable.  Those who never spend their credit, or
+who use the credit, and spend MORE are more valuable.
+
